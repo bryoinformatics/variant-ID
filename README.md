@@ -1,4 +1,4 @@
-# variant-ID (v1.1)
+# variant-ID (v1.0.0)
 This Nextflow pipeline can identify variants from next-generation sequencing data for a cohort of samples.
 
 ## Contents
